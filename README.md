@@ -10,4 +10,5 @@ Montserrat
 index.html — разметка
 style.css — стили
 img/ — картинки
+
 Мущинкина Мария, Б26ДЗ10
