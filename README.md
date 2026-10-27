@@ -1,5 +1,4 @@
-Montserrat
-Это лендинг про шрифт для арт-практики. 
+
 https://muschinkina.github.io/montserrat-landing/
 
 Всё сделано с помощью HTML и CSS.
